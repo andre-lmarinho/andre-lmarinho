@@ -1,4 +1,4 @@
-## Hi there! I'm [André Marinho](https://andremarinho.vercel.app/) 👋
+## Hi there! I'm [André Marinho](https://andremarinho.vercel.app/) 👋🏼
 
 I'm a Front End Developer based in Salvador. I create elegant, business-driven interfaces through clean, strategic code.
 
