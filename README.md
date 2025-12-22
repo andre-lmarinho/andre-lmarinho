@@ -1,5 +1,11 @@
-## Hi there! I'm [André Marinho](https://andremarinho.vercel.app/) 👋🏼
+### Hey! I’m [André Marinho](https://andremarinho.me) 👋
 
-I'm a Front End Developer based in Salvador. I create elegant, business-driven interfaces through clean, strategic code.
+I'm a front end engineer based in Salvador. 
 
-[andremarinho.me](https://andremarinho.vercel.app/) · [linkedin](https://www.linkedin.com/in/andre-marinho-3318ab1aa/) 
+I work across development, design and analytics to turn clean interfaces into measurable results. 
+
+My main tech stack is React, Next.js, TypeScript and Tailwind. I’m energized by TypeScript, open source and coffe. 
+
+Outside of work, you’ll often find at the gym, on a beach, building small tools or exploring new places.
+
+[andremarinho.me](https://andremarinho.me/) · [studio](https://andremarinho.me/studio) · [linkedin](https://linkedin.com/in/andre-marinho-3318ab1aa)
