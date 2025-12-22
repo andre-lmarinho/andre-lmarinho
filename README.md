@@ -1,4 +1,4 @@
-### Hey! I’m [André Marinho](https://andremarinho.me) 👋
+### Hey! I’m [André Marinho](https://andremarinho.me) 👋🏼
 
 I'm a front end engineer based in Salvador. 
 
