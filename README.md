@@ -1,8 +1,8 @@
 # Hey, I'm André 👋
 
-**Full-stack developer** — TypeScript · React · Next.js · Node. In 2025 I went
-all-in on code after eight years founding and running a digital marketing
-agency, so I build software with the business in mind.
+I like building software with intention: how an interface reads, how it responds,
+who it includes, and how much complexity the code leaves behind. I enjoy working
+where design and engineering meet.
 
 ## 🚢 Shipped
 
